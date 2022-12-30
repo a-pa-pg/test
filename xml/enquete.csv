@@ -1,0 +1,16 @@
+Id,VisitorId,DataId,HistoryId,設問,回答
+2-1,VisitorId2,DataId4,HistoryId3,3,新規申し込み中。
+2-1,VisitorId2,DataId4,HistoryId3,11,プルダウン２選択肢99
+2-1,VisitorId2,DataId4,HistoryId3,2,デフォルトテスト
+2-1,VisitorId2,DataId4,HistoryId3,5,"チェックボックス１選択肢1
+チェックボックス１選択肢6"
+2-1,VisitorId2,DataId4,HistoryId3,6,プルダウン１選択肢2
+2-1,VisitorId2,DataId4,HistoryId3,4,ラジオボタン１選択肢2
+2-2,2,2,2,3,新規申し込み中。
+2-2,2,2,2,11,"プルダウン２選択肢2aaa
+プルダウン3選択肢2aaa"
+2-2,2,2,2,2,デフォルトテスト
+2-2,2,2,2,5,"チェックボックス１選択肢1
+チェックボックス１選択肢6"
+2-2,2,2,2,6,プルダウン１選択肢2
+2-2,2,2,2,4,ラジオボタン１選択肢2

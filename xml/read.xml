@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisitorDataList xmlns="http://smartseminar.jp/" version="1.5">
+    <VisitorData>
+        <Attribute47 />
+        <Memo />
+        <Attribute8>1111</Attribute8>
+        <Attribute15List>
+            <Attribute15>
+                <Attribute15Id>5</Attribute15Id>
+                <Attribute15Name>経営者</Attribute15Name>
+            </Attribute15>
+        </Attribute15List>
+        <Position>役職１１</Position>
+        <EmailSendErrorCount />
+        <SubEmailSendErrorCount />
+        <Address1>千葉市</Address1>
+        <DateUpdate>2009-06-08T15:46:54+09:00</DateUpdate>
+        <CompanyName>会社名１１</CompanyName>
+        <EmailValid>
+            <EmailValidId>1</EmailValidId>
+            <EmailValidName>有効</EmailValidName>
+        </EmailValid>
+        <Address2>御徒町</Address2>
+        <Address5 />
+        <CompanyNameKa>カイシャメイフリガナ1</CompanyNameKa>
+        <Id>41</Id>
+        <PermissionType>
+            <PermissionTypeName>希望しない</PermissionTypeName>
+            <PermissionTypeId>2</PermissionTypeId>
+        </PermissionType>
+        <Tel>1111</Tel>
+        <LoginId>testuser011</LoginId>
+        <Division>部署１１</Division>
+        <SubTel>1111</SubTel>
+        <RegistrationType>
+            <RegistrationTypeName>本登録</RegistrationTypeName>
+            <RegistrationTypeId>1</RegistrationTypeId>
+        </RegistrationType>
+        <Attribute17List>
+            <Attribute17>
+                <Attribute17Name>経営管理(可視化)</Attribute17Name>
+                <Attribute17Id>5</Attribute17Id>
+            </Attribute17>
+            <Attribute17>
+                <Attribute17Name>SaaS</Attribute17Name>
+                <Attribute17Id>32</Attribute17Id>
+            </Attribute17>
+            <Attribute17>
+                <Attribute17Name>経営管理(可視化)111</Attribute17Name>
+                <Attribute17Id>6</Attribute17Id>
+            </Attribute17>
+        </Attribute17List>
+        <DateRegist>2009-06-06T15:13:57+09:00</DateRegist>
+        <Email>failure011@shanon.co.jp</Email>
+        <InspectionType>
+            <InspectionTypeName>未検閲</InspectionTypeName>
+            <InspectionTypeId>3</InspectionTypeId>
+        </InspectionType>
+        <Prefecture>
+            <PrefectureName>千葉県</PrefectureName>
+            <PrefectureId>9</PrefectureId>
+        </Prefecture>
+        <SubEmailValid>
+            <SubEmailValidId>1</SubEmailValidId>
+            <SubEmailValidName>有効</SubEmailValidName>
+        </SubEmailValid>
+        <Zip1>111</Zip1>
+        <Name1>テスト</Name1>
+        <Address3 />
+        <Name2Ka>ジュウイチロウ</Name2Ka>
+        <Name2>十一郎</Name2>
+        <Zip3 />
+        <SubEmail>failfailure_agency011@shanon.co.jp</SubEmail>
+        <Name3 />
+        <Language>
+            <LanguageName>日本語</LanguageName>
+            <LanguageId>1</LanguageId>
+        </Language>
+        <Name1Ka>テスト</Name1Ka>
+        <Zip2>1111</Zip2>
+        <Country>
+            <CountryName />
+            <CountryId />
+        </Country>
+        <Address4 />
+        <Fax>111</Fax>
+    </VisitorData>
+    <VisitorData>
+        <Attribute47 />
+        <Memo />
+        <Attribute8>1111</Attribute8>
+        <Attribute15List>
+            <Attribute15>
+                <Attribute15Id>5</Attribute15Id>
+                <Attribute15Name>経営者</Attribute15Name>
+            </Attribute15>
+        </Attribute15List>
+        <Attribute5List>
+            <Attribute5>
+                <Attribute5Name>チェックボックス１選択肢1</Attribute5Name>
+                <Attribute5Id>1</Attribute5Id>
+            </Attribute5>
+            <Attribute5>
+                <Attribute5Name>チェックボックス１選択肢6</Attribute5Name>
+                <Attribute5Id>6</Attribute5Id>
+            </Attribute5>
+        </Attribute5List>
+        <Position>役職１１</Position>
+        <EmailSendErrorCount />
+        <SubEmailSendErrorCount />
+        <Address1>千葉市</Address1>
+        <DateUpdate>2009-06-08T15:46:54+09:00</DateUpdate>
+        <CompanyName>会社名１１</CompanyName>
+        <EmailValid>
+            <EmailValidId>1</EmailValidId>
+            <EmailValidName>有効</EmailValidName>
+        </EmailValid>
+        <Address2>御徒町</Address2>
+        <Address5 />
+        <CompanyNameKa>カイシャメイフリガナ2</CompanyNameKa>
+        <Id>42</Id>
+        <PermissionType>
+            <PermissionTypeName>希望しない</PermissionTypeName>
+            <PermissionTypeId>2</PermissionTypeId>
+        </PermissionType>
+        <Tel>1111</Tel>
+        <LoginId>testuser011</LoginId>
+        <Division>部署１１</Division>
+        <SubTel>1111</SubTel>
+        <RegistrationType>
+            <RegistrationTypeName>本登録</RegistrationTypeName>
+            <RegistrationTypeId>1</RegistrationTypeId>
+        </RegistrationType>
+        <Attribute17List>
+            <Attribute17>
+                <Attribute17Name>経営管理(可視化)</Attribute17Name>
+                <Attribute17Id>5</Attribute17Id>
+            </Attribute17>
+            <Attribute17>
+                <Attribute17Name>SaaS</Attribute17Name>
+                <Attribute17Id>32</Attribute17Id>
+            </Attribute17>
+        </Attribute17List>
+        <DateRegist>2009-06-06T15:13:57+09:00</DateRegist>
+        <Email>failure011@shanon.co.jp</Email>
+        <InspectionType>
+            <InspectionTypeName>未検閲</InspectionTypeName>
+            <InspectionTypeId>3</InspectionTypeId>
+        </InspectionType>
+        <Prefecture>
+            <PrefectureName>千葉県</PrefectureName>
+            <PrefectureId>9</PrefectureId>
+        </Prefecture>
+        <SubEmailValid>
+            <SubEmailValidId>1</SubEmailValidId>
+            <SubEmailValidName>有効</SubEmailValidName>
+        </SubEmailValid>
+        <Zip1>111</Zip1>
+        <Name1>テスト</Name1>
+        <Address3 />
+        <Name2Ka>ジュウイチロウ</Name2Ka>
+        <Name2>十一郎</Name2>
+        <Zip3 />
+        <SubEmail>failfailure_agency011@shanon.co.jp</SubEmail>
+        <Name3 />
+        <Language>
+            <LanguageName>日本語</LanguageName>
+            <LanguageId>1</LanguageId>
+        </Language>
+        <Name1Ka>テスト</Name1Ka>
+        <Zip2>1111</Zip2>
+        <Country>
+            <CountryName />
+            <CountryId />
+        </Country>
+        <Address4 />
+        <Fax>111</Fax>
+    </VisitorData>
+</VisitorDataList>
